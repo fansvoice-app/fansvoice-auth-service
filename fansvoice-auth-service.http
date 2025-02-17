@@ -1,0 +1,6 @@
+@fansvoice_auth_service_HostAddress = http://localhost:5094
+
+GET {{fansvoice_auth_service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
